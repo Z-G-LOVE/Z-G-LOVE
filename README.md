@@ -1,16 +1,20 @@
-### Hi there 👋
+##自我介绍
 
-<!--
-**Z-G-LOVE/Z-G-LOVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   本人张泽涛，长相平平，广东工业大学计算机学院软件工程的大三生，喜欢简单的思考，简单的人生，兴趣爱好比较单一，干饭->睡觉->......，熟悉Java,粗劣的了解过一些企业开发框架。个人能力技能倾向于web后端开发与数据库交互。对于软件开发有较浓厚的兴趣，希望这门课程能给我的软件开发生涯起到启发作用。
 
-Here are some ideas to get you started:
+##6个问题
+  1、设计模式对于软件开发效率方面的作用，设计模式背后的原理与思想；
+  2、ORM思想的原理与企业软件开发的应用；
+  3、代码规范的必要性；
+  4、如何在实际开发中运用设计模式缓解程序的耦合，提高代码的内聚。
+  5、更加高效的软件开发要求我们遵从哪些规范，具备哪些技能与经验；
+  6、个人代码风格如何与团队融合，形成1+1>2的效应；
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##预期
+  1、养成良好的代码习惯；
+  2、提高个人在团队中的适应能力，能在团队软件开发过程中找到自己的定位；
+  3、运用设计模式与成熟的架构进行软件的开发，提高个人的开发效率；
+  4、积累一些实际的开发经验。
+
+
+
